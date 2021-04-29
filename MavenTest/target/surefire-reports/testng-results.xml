@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-12T14:42:13 PDT" name="Suite1" finished-at="2021-04-12T14:42:13 PDT" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2021-04-12T14:42:13 PDT" name="Test" finished-at="2021-04-12T14:42:13 PDT" duration-ms="32">
+      <class name="com.maven.test1.TestClass3">
+        <test-method signature="WebFn1()[pri:0, instance:com.maven.test1.TestClass3@3a079870]" started-at="2021-04-12T14:42:13 PDT" name="WebFn1" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebFn1 -->
+        <test-method signature="WebFr()[pri:0, instance:com.maven.test1.TestClass3@3a079870]" started-at="2021-04-12T14:42:13 PDT" name="WebFr" finished-at="2021-04-12T14:42:13 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebFr -->
+      </class> <!-- com.maven.test1.TestClass3 -->
+      <class name="com.maven.test1.TestClass2">
+        <test-method signature="test4()[pri:0, instance:com.maven.test1.TestClass2@657c8ad9]" started-at="2021-04-12T14:42:13 PDT" name="test4" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:com.maven.test1.TestClass2@657c8ad9]" started-at="2021-04-12T14:42:13 PDT" name="test5" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:com.maven.test1.TestClass2@657c8ad9]" started-at="2021-04-12T14:42:13 PDT" name="test6" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.maven.test1.TestClass2 -->
+      <class name="com.maven.test1.TestClass1">
+        <test-method signature="test()[pri:0, instance:com.maven.test1.TestClass1@14ec4505]" started-at="2021-04-12T14:42:13 PDT" name="test" finished-at="2021-04-12T14:42:13 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test2()[pri:0, instance:com.maven.test1.TestClass1@14ec4505]" started-at="2021-04-12T14:42:13 PDT" name="test2" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.maven.test1.TestClass1@14ec4505]" started-at="2021-04-12T14:42:13 PDT" name="test3" finished-at="2021-04-12T14:42:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.maven.test1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
